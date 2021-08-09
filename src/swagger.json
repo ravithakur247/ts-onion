@@ -1,0 +1,44 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "TS Core",
+    "description": "App and web APIs",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "host": "host",
+  "tags": [
+    {
+      "name": "Posts",
+      "description": "APIs in the system"
+    }
+  ],
+  "schemes": ["http"],
+  "consumes": ["application/json"],
+  "produces": ["application/json"],
+  "paths": {
+    "/api/posts/getAllPosts": {
+      "get": {
+        "tags": ["Posts"],
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "description": "Get all posts in our system.",
+        "produces": ["application/json"],
+        "responses": {
+          "200": {
+            "description": "All post fetched."
+          },
+          "401": {
+            "description": "UnAuthorized"
+          }
+        }
+      }
+    }
+  }
+}

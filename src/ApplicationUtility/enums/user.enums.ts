@@ -1,0 +1,19 @@
+export enum USERSTATUS {
+  ACTIVE = 1,
+  DEACTIVE = 2,
+  DELETED = 3
+}
+
+export enum PLATFORM {
+  IOS = 1,
+  ANDROID = 2,
+  WEB = 3
+}
+
+export enum APPLICATION_ROLE {
+  SUPER_ADMIN = 1001,
+  ADMIN = 1002,
+  PROPERTY_OWNER = 1003,
+  EXAMINER = 1004,
+  APPRAISER = 1005
+}
