@@ -5,6 +5,10 @@ __Backend__ __Api__
 
 ## Commands 
 
+###### npm i ts-onion
+
+###### set .env file
+
 ###### run dev server :npm run dev
 
 ###### build: npm run build
@@ -13,7 +17,7 @@ __Backend__ __Api__
 ## About TS-Onion Bolierplate
 
 ###### TS Onion is an project for creating micorservice using TypeScript,Express and Inversify JS.
-###### It uses Squelize as ORM.
+###### It uses Sequelize as ORM.
 ###### It has prebuilt Amdin api to guide how to extend the development.
 ###### It have complete set up with swagger documentation.
 ###### This project uses singleton approach and DI.
@@ -39,11 +43,6 @@ __Backend__ __Api__
 ###### Feel free to report bug and issues.I will try to improve this project.
 ###### Suggestion to improve this project are welcomed.
 ###### Feel free to contribute.
-
-
-## Keywords
-
-###### typeScript ts express inversify javascript js di singleton orm sequelize swagger documentation
 
 
 
