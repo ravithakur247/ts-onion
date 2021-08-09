@@ -1,7 +1,7 @@
 {
   "name": "ts-onion",
-  "version": "1.0.0",
-  "description": "Rest Api build with TS on top of the Express JS",
+  "version": "1.0.1",
+  "description": "Rest Api build with TS on top of the Express JS with inversify js and singleton classes",
   "main": "app.js",
   "scripts": {
     "start": "node dist/app.js",
@@ -55,5 +55,9 @@
     "nodemon": "^2.0.3",
     "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonyzach/usfm-validator.git"
   }
 }
