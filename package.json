@@ -1,5 +1,5 @@
 {
-  "name": "ts-core",
+  "name": "ts-onion",
   "version": "1.0.0",
   "description": "Rest Api build with TS on top of the Express JS",
   "main": "app.js",

@@ -1,4 +1,4 @@
-# TS-Core
+# TS-Onion
 
 __Backend__ __Api__ 
 
@@ -10,9 +10,9 @@ __Backend__ __Api__
 ###### build: npm run build
 
 
-## About TS Core Bolierplate
+## About TS-Onion Bolierplate
 
-###### TS Core is an project for creating micorservice using TypeScript,Express and Inversify JS.
+###### TS Onion is an project for creating micorservice using TypeScript,Express and Inversify JS.
 ###### It uses Squelize as ORM.
 ###### It has prebuilt Amdin api to guide how to extend the development.
 ###### It have complete set up with swagger documentation.
@@ -32,7 +32,7 @@ __Backend__ __Api__
 
 ## Aim 
 
-###### TS Core is developed to build efficient and DRY backend micorserice motivated by DOT NET CORE using Inverify JS.
+###### TS-Onion is developed to build efficient and DRY backend micorserice motivated by DOT NET CORE using Inverify JS.
 
 ## Contribution
 

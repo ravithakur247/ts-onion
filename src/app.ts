@@ -40,7 +40,7 @@ server
       {
         definition : {
           info : {
-              title : "TS Core" ,
+              title : "TS Onion" ,
               version : "1.0"
           },
           securityDefinitions: {
