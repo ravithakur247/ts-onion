@@ -6,12 +6,25 @@ __Backend__ __Api__
 ## Commands 
 
 ###### npm i ts-onion
+ 
+###### mode to the folder 
 
 ###### set .env file
+
+###### move to the folder run npm i
 
 ###### run dev server :npm run dev
 
 ###### build: npm run build
+
+
+## Manual Installation
+
+###### git clone https://github.com/ravithakur247/ts-onion.git
+
+###### npm i
+
+###### set .env file
 
 
 ## About TS-Onion Bolierplate
