@@ -1,6 +1,6 @@
 {
   "name": "ts-onion",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Rest Api build with TS on top of the Express JS with inversify js and singleton classes",
   "main": "index.js",
   "scripts": {
